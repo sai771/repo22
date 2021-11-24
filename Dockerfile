@@ -1,4 +1,4 @@
-FROM rhel
+FROM registry.access.redhat.com/ubi8/ubi:8.1
 
 MAINTAINER OpenShift Development <dev@lists.openshift.redhat.com>
 
